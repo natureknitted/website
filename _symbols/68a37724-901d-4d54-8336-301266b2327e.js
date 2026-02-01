@@ -1,4 +1,4 @@
-// Image Carousel - Updated June 13, 2025
+// Image Carousel - Updated January 31, 2026
 function noop() { }
 const identity = x => x;
 function run(fn) {

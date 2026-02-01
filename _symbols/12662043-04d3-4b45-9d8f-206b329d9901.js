@@ -1,4 +1,4 @@
-// Slideshow - Updated June 13, 2025
+// Slideshow - Updated January 31, 2026
 function noop() { }
 const identity = x => x;
 function assign(tar, src) {
